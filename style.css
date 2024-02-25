@@ -1,0 +1,13 @@
+    #grid{
+        height: 300px;
+        width: 405px;
+        display: flex;
+        flex-wrap: wrap;
+        position: relative;
+        justify-self: center;
+        align-self: center;
+        row-gap: 1px;
+        column-gap: 1px;
+        top: 110px;
+        left: 35%;
+    }
